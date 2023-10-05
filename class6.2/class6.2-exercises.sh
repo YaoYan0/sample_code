@@ -16,7 +16,15 @@ done
 
 # Pactice #2: Print out the number of words in each line of fastcar.txt 
 # then sort those numbers to see how long the longest line is.
-# Bonus, don't print out duplicates.
+cat fastcar.txt | while read i; do
+    wordcount=`echo $i | wc -w`
+    echo $wordcount
+done | sort -n
+
+
+
+# Practice #2 Fancy: Print out the lines witt more than 10 words,
+# then remove duplicates, and then sort by the number of words.
 cat fastcar.txt | while read i; do
     wordcount=`echo $i | wc -w`
     if [ $wordcount -gt 10 ]; then
