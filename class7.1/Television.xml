@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Arts &gt; Television</title>
+    <link>https://www.nytimes.com/section/arts/television</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Television.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 11 Oct 2023 01:42:07 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 18:43:05 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Arts &gt; Television</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/arts/television</link>
+    </image>
+    <item>
+      <title>‘Frasier’ Returns With a Sitcom Veteran in the Director’s Chair</title>
+      <link>https://www.nytimes.com/2023/10/10/arts/television/frasier-paramount-james-burrows.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/10/arts/television/frasier-paramount-james-burrows.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/10/arts/television/frasier-paramount-james-burrows.html" rel="standout"></atom:link>
+      <description>Over nearly five decades, Burrows has directed a thousand sitcom episodes. Next up: the new Paramount+ series, which follows Frasier Crane’s return to Boston.</description>
+      <dc:creator>Alexis Soloski</dc:creator>
+      <pubDate>Tue, 10 Oct 2023 09:02:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James Burrows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Frasier (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/15/multimedia/15burrows-promo-gcpf/15burrows-promo-gcpf-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Welsh for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How ‘Survivor’ and “Amazing Race’ Adapt to Climate Change</title>
+      <link>https://www.nytimes.com/2023/10/10/arts/television/survivor-amazing-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/10/arts/television/survivor-amazing-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/10/arts/television/survivor-amazing-race.html" rel="standout"></atom:link>
+      <description>The CBS hit, along with fellow staple “The Amazing Race,” is learning to deal with climate change, globalization and other seismic shifts.</description>
+      <dc:creator>Calum Marsh</dc:creator>
+      <pubDate>Tue, 10 Oct 2023 18:27:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reality Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Probst, Jeff</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Survivor (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Amazing Race (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bertram van Munster</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
+    </item>
+    <item>
+      <title>‘Too Young for Me!’: A Senior Center Watches ‘The Golden Bachelor’</title>
+      <link>https://www.nytimes.com/2023/10/05/arts/television/golden-bachelor-senior-center-watch-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/05/arts/television/golden-bachelor-senior-center-watch-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/05/arts/television/golden-bachelor-senior-center-watch-party.html" rel="standout"></atom:link>
+      <description>The commentary was sharp and the drinks were virgin at a watch party for the new dating show featuring singles between 60 and 75.</description>
+      <dc:creator>Julia Jacobs</dc:creator>
+      <pubDate>Fri, 06 Oct 2023 17:35:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reality Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Golden Bachelor (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ABC Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gerry Turner</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/05/multimedia/05bachelor-watchparty-jtbc/05bachelor-watchparty-jtbc-moth.jpg" width="151"></media:content>
+      <media:credit>Krista Schlueter for The New York Times</media:credit>
+      <media:description>Mahjong and knitting are typical activities at the Oakland Senior Center, which recently organized a viewing of “The Golden Bachelor.”</media:description>
+    </item>
+    <item>
+      <title>‘Loki’ Season 2: Into the Multiverse and Adding Ke Huy Quan</title>
+      <link>https://www.nytimes.com/2023/10/05/arts/television/loki-season-2-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/05/arts/television/loki-season-2-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/05/arts/television/loki-season-2-interview.html" rel="standout"></atom:link>
+      <description>Eric Martin discusses the second installment of the Disney+ series starring Tom Hiddleston as the God of Mischief.</description>
+      <dc:creator>Christopher Kuo</dc:creator>
+      <pubDate>Mon, 09 Oct 2023 04:03:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Entertainment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Loki (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/05/multimedia/05loki-02-vcqf/05loki-02-vcqf-moth.jpg" width="151"></media:content>
+      <media:credit>Elizabeth Weinberg for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>‘Our Flag Means Death’ Review: Stormy Seas in Season 2</title>
+      <link>https://www.nytimes.com/2023/10/04/arts/television/our-flag-means-death-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/04/arts/television/our-flag-means-death-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/04/arts/television/our-flag-means-death-review.html" rel="standout"></atom:link>
+      <description>An offbeat pirate comedy with a devoted fan base tacks in the direction of romance.</description>
+      <dc:creator>Mike Hale</dc:creator>
+      <pubDate>Thu, 05 Oct 2023 10:41:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Our Flag Means Death (TV Program)</category>
+    </item>
+    <item>
+      <title>‘Big Brother’ Returns to Britain, With an Old Format</title>
+      <link>https://www.nytimes.com/2023/10/06/arts/television/big-brother-britain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/06/arts/television/big-brother-britain.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/06/arts/television/big-brother-britain.html" rel="standout"></atom:link>
+      <description>The reality show dominated U.K. pop culture in the early 2000s. The producers of an upcoming revival hope the original format will break through in a changed TV landscape.</description>
+      <dc:creator>Scott Bryan</dc:creator>
+      <pubDate>Fri, 06 Oct 2023 09:03:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reality Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ITV (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Big Brother (TV Program)</category>
+    </item>
+    <item>
+      <title>The Director of ‘Savior Complex’ on the Perils of ‘White Saviorism’</title>
+      <link>https://www.nytimes.com/2023/10/04/arts/television/savior-complex-jackie-jesko-renee-bach-hbo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/04/arts/television/savior-complex-jackie-jesko-renee-bach-hbo.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/04/arts/television/savior-complex-jackie-jesko-renee-bach-hbo.html" rel="standout"></atom:link>
+      <description>Jackie Jesko spoke about the subject of her HBO docu-series, a Christian missionary accused of playing doctor with the lives of Ugandan children.</description>
+      <dc:creator>Christopher Kuo</dc:creator>
+      <pubDate>Mon, 09 Oct 2023 04:06:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Box Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Savior Complex (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jesko, Jackie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bach, Renee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missionaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+    </item>
+    <item>
+      <title>Sex, Thugs and Kidneys: ‘Bargain’ Bids to Be the Next ‘Squid Game’</title>
+      <link>https://www.nytimes.com/2023/10/04/arts/television/bargain-paramount-plus-korean-drama-squid-game.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/04/arts/television/bargain-paramount-plus-korean-drama-squid-game.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/04/arts/television/bargain-paramount-plus-korean-drama-squid-game.html" rel="standout"></atom:link>
+      <description>A new Paramount+ thriller depicts a fight for survival amid sex scams, organ auctions and earthquakes. Like other Korean dramas, it is really about class.</description>
+      <dc:creator>Chris Vognar</dc:creator>
+      <pubDate>Thu, 05 Oct 2023 02:45:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bargain (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Byun Seungmin (Screenwriter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jun Jong Seo (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jin Sun Kyu (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Squid Game (TV Program)</category>
+    </item>
+    <item>
+      <title>‘Only Murders In the Building’ Season 3 Finale: The Show, and Deaths, Go On</title>
+      <link>https://www.nytimes.com/2023/10/03/arts/television/only-murders-in-the-building-season-3-finale.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/03/arts/television/only-murders-in-the-building-season-3-finale.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/03/arts/television/only-murders-in-the-building-season-3-finale.html" rel="standout"></atom:link>
+      <description>Tuesday’s finale of “Only Murders in the Building” wrapped a season that was a love letter to Broadway musicals, not least because it was a little silly.</description>
+      <dc:creator>Alexis Soloski</dc:creator>
+      <pubDate>Thu, 05 Oct 2023 18:20:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Only Murders in the Building (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hulu.com</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/05/arts/03only-murders/03only-murders-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Harbron/Hulu</media:credit>
+      <media:description>Meryl Streep in the Season 3 finale of “Only Murders in the Building.” Many jokes were made at her character’s inability to put on a convincing accent.</media:description>
+    </item>
+    <item>
+      <title>Book Review: ‘MCU: The Reign of Marvel Studios,’ by Joanna Robinson, Dave Gonzalez and Gavin Edwards</title>
+      <link>https://www.nytimes.com/2023/10/10/books/review/mcu-the-reign-of-marvel-studios.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/10/books/review/mcu-the-reign-of-marvel-studios.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/10/books/review/mcu-the-reign-of-marvel-studios.html" rel="standout"></atom:link>
+      <description>“The Reign of Marvel Studios” captures how movies based on comic-book properties came to dominate pop culture. At least until now.</description>
+      <dc:creator>Amy Nicholson</dc:creator>
+      <pubDate>Tue, 10 Oct 2023 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comic Books and Strips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Comics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Studios</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Entertainment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walt Disney Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feige, Kevin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perlmutter, Isaac (1942- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Downey, Robert Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/10/multimedia/10robinson-wqhc/10robinson-wqhc-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Hofford/European Pressphoto Agency</media:credit>
+      <media:description>Kevin Feige (right), the mastermind behind Marvel’s global expansion, with (from left) the director Scott Derrickson and the actors Tilda Swinton and Benedict Cumberbatch, at the 2016 Hong Kong premiere of the movie “Doctor Strange.”</media:description>
+    </item>
+    <item>
+      <title>Late Night Hosts Address the Hamas Attacks on Israel</title>
+      <link>https://www.nytimes.com/2023/10/10/arts/television/late-night-hamas-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/10/arts/television/late-night-hamas-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/10/arts/television/late-night-hamas-israel.html" rel="standout"></atom:link>
+      <description>Seth Meyers kept things serious, while Stephen Colbert and Jimmy Kimmel tried a touch of levity around a tough subject.</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Tue, 10 Oct 2023 17:31:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Show with Stephen Colbert (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyers, Seth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colbert, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+    </item>
+    <item>
+      <title>What’s on TV This Week: ‘Saturday Night Live’ and ‘Shining Vale’</title>
+      <link>https://www.nytimes.com/2023/10/09/arts/television/whats-on-tv-this-week-saturday-night-live-and-shining-vale.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/09/arts/television/whats-on-tv-this-week-saturday-night-live-and-shining-vale.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/09/arts/television/whats-on-tv-this-week-saturday-night-live-and-shining-vale.html" rel="standout"></atom:link>
+      <description>The NBC skit show starts its 49th season, and the Starz show returns.</description>
+      <dc:creator>Shivani Gonzalez</dc:creator>
+      <pubDate>Mon, 09 Oct 2023 05:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>Nicole Scherzinger as Norma Desmond? Yes, There’s a Connection.</title>
+      <link>https://www.nytimes.com/2023/10/07/theater/nicole-scherzinger-sunset-boulevard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/07/theater/nicole-scherzinger-sunset-boulevard.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/07/theater/nicole-scherzinger-sunset-boulevard.html" rel="standout"></atom:link>
+      <description>It’s been cathartic to “create art from places of torment,” the singer-actor said ahead of the opening of “Sunset Boulevard” in London.</description>
+      <dc:creator>Roslyn Sulcas</dc:creator>
+      <pubDate>Sat, 07 Oct 2023 15:36:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Sunset Boulevard (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scherzinger, Nicole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pussycat Dolls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lloyd, Jamie</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/06/multimedia/06scherzinger-sunset-02-vhcb/06scherzinger-sunset-02-vhcb-moth.jpg" width="151"></media:content>
+      <media:credit>Kalpesh Lathigra for The New York Times</media:credit>
+      <media:description>“I knew exactly this feeling of abandonment, the constant thread of loneliness, the insatiable need for affirmation,” Scherzinger said. “I finally have the courage not to worry.”</media:description>
+    </item>
+    <item>
+      <title>‘Billions’ Season 7, Episode 9 Recap: The Walls Close in</title>
+      <link>https://www.nytimes.com/2023/10/06/arts/television/billions-recap-episode-9.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/06/arts/television/billions-recap-episode-9.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/06/arts/television/billions-recap-episode-9.html" rel="standout"></atom:link>
+      <description>Chuck joins the mutineers in a spectacular way as Mike sets traps for Wendy and the rest.</description>
+      <dc:creator>Sean T. Collins</dc:creator>
+      <pubDate>Fri, 06 Oct 2023 16:47:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shenkman, Ben (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Billions (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/06/arts/06billions-recap-1/06billions-recap-1-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher T. Saunders/Showtime</media:credit>
+      <media:description>As Wendy Rhoades (Maggie Siff) plots against a Prince presidency, her escape plan turns into a trap.</media:description>
+    </item>
+    <item>
+      <title>Jimmy Kimmel Calls Matt Gaetz ‘the Least Popular Guy in Congress’</title>
+      <link>https://www.nytimes.com/2023/10/06/arts/television/jimmy-kimmel-matt-gaetz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/06/arts/television/jimmy-kimmel-matt-gaetz.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/06/arts/television/jimmy-kimmel-matt-gaetz.html" rel="standout"></atom:link>
+      <description>“Ted Cruz must be glowing,” Kimmel said on Thursday about the scorn piling onto Representative Matt Gaetz.</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Fri, 06 Oct 2023 06:01:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyers, Seth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colbert, Stephen</category>
+    </item>
+    <item>
+      <title>How Much Watching Time Do You Have This Weekend?</title>
+      <link>https://www.nytimes.com/2023/10/05/arts/television/love-and-anarchy-les-revenants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/05/arts/television/love-and-anarchy-les-revenants.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/05/arts/television/love-and-anarchy-les-revenants.html" rel="standout"></atom:link>
+      <description>Our TV critic recommends an international smorgasbord, with great shows from Sweden, Austria and France.</description>
+      <dc:creator>Margaret Lyons</dc:creator>
+      <pubDate>Thu, 05 Oct 2023 19:34:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Love &amp; Anarchy (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Walking on Sunshine (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Les Revenants (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/06/arts/04Watching-LAA/04Watching-LAA-moth.jpg" width="151"></media:content>
+      <media:credit>Ulrika Malm/Netflix</media:credit>
+      <media:description>Ida Engvoll in a scene from “Love &amp; Anarchy.”</media:description>
+    </item>
+    <item>
+      <title>The Best Movies and TV Shows Streaming in October: ‘Loki,’ ‘Goosebumps’ and More</title>
+      <link>https://www.nytimes.com/2023/10/05/arts/television/october-streaming-movies-tv-shows.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/05/arts/television/october-streaming-movies-tv-shows.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/05/arts/television/october-streaming-movies-tv-shows.html" rel="standout"></atom:link>
+      <description>Here’s the best of what’s coming to Amazon, Max, Apple TV+ and others.</description>
+      <dc:creator>Noel Murray</dc:creator>
+      <pubDate>Thu, 05 Oct 2023 16:43:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">amazon prime video</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple TV Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Disney Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hulu.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HBO Max</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Showtime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Peacock Services</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/05/arts/05streaming-new/05streaming-new-moth-v2.jpg" width="151"></media:content>
+      <media:credit>via Prime</media:credit>
+      <media:description>Kiernan Shipka as Jamie Hughes in “Totally Killer.”</media:description>
+    </item>
+    <item>
+      <title>Seth Meyers Spurns Suggestions for Trump to Replace McCarthy</title>
+      <link>https://www.nytimes.com/2023/10/05/arts/television/seth-meyers-trump-speaker.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/05/arts/television/seth-meyers-trump-speaker.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/05/arts/television/seth-meyers-trump-speaker.html" rel="standout"></atom:link>
+      <description>“Only the Republicans would consider giving the job of speaker to someone who is under a gag order,” Meyers said.</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Thu, 05 Oct 2023 06:25:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+    </item>
+    <item>
+      <title>‘Saturday Night Live’ Returns with Pete Davidson, Ice Spice</title>
+      <link>https://www.nytimes.com/2023/10/04/arts/television/snl-return-pete-davidson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/04/arts/television/snl-return-pete-davidson.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/04/arts/television/snl-return-pete-davidson.html" rel="standout"></atom:link>
+      <description>Pete Davidson — who left the cast of the show in 2022 — will host the season premiere on Oct. 14.</description>
+      <dc:creator>Maya Salam</dc:creator>
+      <pubDate>Wed, 04 Oct 2023 22:38:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saturday Night Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davidson, Pete (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ice Spice (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Broadcasting Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SAG-AFTRA</category>
+    </item>
+    <item>
+      <title>The Best Movies and TV Shows Coming to Netflix in October</title>
+      <link>https://www.nytimes.com/2023/10/04/arts/television/netflix-new-movies-shows-october.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/04/arts/television/netflix-new-movies-shows-october.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/04/arts/television/netflix-new-movies-shows-october.html" rel="standout"></atom:link>
+      <description>“Lupin” returns and the latest literary horror adaptation from Mike Flanagan debuts, just in time for Halloween.</description>
+      <dc:creator>Noel Murray</dc:creator>
+      <pubDate>Wed, 04 Oct 2023 19:31:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/03/arts/03xp-lupin1/03xp-lupin1-moth.jpg" width="151"></media:content>
+      <media:credit>Emmanuel Guimier/Netflix, via Associated Press</media:credit>
+      <media:description>Omar Sy in a scene from the series “Lupin.”</media:description>
+    </item>
+    <item>
+      <title>Late Night Hosts Roast Kevin McCarthy on His Way Out</title>
+      <link>https://www.nytimes.com/2023/10/04/arts/television/late-night-kevin-mccarthy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/04/arts/television/late-night-kevin-mccarthy.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/04/arts/television/late-night-kevin-mccarthy.html" rel="standout"></atom:link>
+      <description>“Nine months? I’ve been to Phish concerts longer than that,” Jimmy Fallon joked of McCarthy’s tenure as speaker of the House.</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Wed, 04 Oct 2023 06:21:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Show with Stephen Colbert (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+    </item>
+  </channel>
+</rss>
