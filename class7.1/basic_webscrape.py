@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Here's a Category page for Simple English Wikipedia
-URL = "https://simple.wikipedia.org/wiki/Category:Felines"
+URL = "https://simple.wikipedia.org/wiki/Category:2010s_superhero_movies"
 
 # Get that page.
 page = requests.get(URL)
@@ -14,7 +14,7 @@ page = requests.get(URL)
 soup = BeautifulSoup(page.content, "html.parser")
 
 # List for storing the links to pages we want to get.
-cat_pages = []
+superhero_pages = []
 
 # Find the heading associated with "Pages in category"
 # Depending on the Category page you are looking at.
@@ -26,15 +26,15 @@ for h2 in soup.find_all("h2"):
         # This is 46 because that's how many I found on this
         # particular page. You will have to change that to
         # work with anothe rpage.
-        for a in h2.find_all_next("a", href=True, limit=46):
+        for a in h2.find_all_next("a", href=True, limit=60):
             if "wiki" in a["href"]:
-                cat_pages.append(a["href"])
+                superhero_pages.append(a["href"])
 
 # For each URL you got out of the Category page...
-for c in cat_pages:
+for s in superhero_pages:
 
     # You need to add the rest of the URL to the beginning.
-    URL = "https://simple.wikipedia.org/" + c
+    URL = "https://simple.wikipedia.org/" + s
 
     # Go get it and parse the html.
     page = requests.get(URL)
